@@ -22,3 +22,12 @@ docker run -d -p 8000:8000 user-api
 ```
 
 API docs: http://localhost:8000/docs
+
+## Screenshots
+![FastAPI Swagger UI](https://i.imgur.com/TwE4AgC.png)
+
+## To Do
+- [ ] JWT Authentication
+- [ ] User update/delete
+- [ ] Unit tests with Pytest
+
